@@ -1,2 +1,2 @@
-# christopherSummers.github.io
+# christophersummers.github.io
 ...
